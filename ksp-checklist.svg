@@ -14,8 +14,8 @@
    id="svg5158"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="ksp-checklist-print.pdf"
-   inkscape:export-filename="C:\Users\David\Desktop\ksp-checklist-print.png"
+   sodipodi:docname="ksp-checklist.svg"
+   inkscape:export-filename="C:\Users\David\Documents\GitHub\ksp-checklist\ksp-checklist-print.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -25,7 +25,8 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path5190"
-         d="M 0,414 324,414 324,0 0,0 0,414 z" />
+         d="M 0,414 324,414 324,0 0,0 0,414 z"
+         inkscape:connector-curvature="0" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -35,11 +36,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="124.79538"
-     inkscape:cy="260.4414"
+     inkscape:zoom="0.7"
+     inkscape:cx="10.202177"
+     inkscape:cy="72.519724"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="in"
      showguides="true"
@@ -82,9 +83,9 @@
      inkscape:label="Template"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-534.85975)"
+     transform="translate(0,-534.86)"
      sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:none">
     <path
        inkscape:connector-curvature="0"
        d="m 22.5,557.3598 360,0 0,472.5 -360,0 0,-472.5 z"
@@ -100,6 +101,19 @@
        d="m 11.25,546.1098 382.5,0 0,495 -382.5,0 0,-495 z"
        style="fill:none;stroke:#ed1c24;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path6034" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="white background"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke:none"
+       id="rect3080"
+       width="405"
+       height="517.5"
+       x="0"
+       y="4.8849813e-015" />
   </g>
   <g
      inkscape:groupmode="layer"
