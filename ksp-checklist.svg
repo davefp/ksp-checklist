@@ -36,20 +36,26 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="10.202177"
-     inkscape:cy="72.519724"
+     inkscape:zoom="1.4"
+     inkscape:cx="207.23683"
+     inkscape:cy="255.19211"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1618"
      inkscape:window-height="1028"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-from-guide="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false">
     <sodipodi:guide
        orientation="0,1"
        position="-1.0714286,494.28572"
@@ -66,6 +72,70 @@
        orientation="1,0"
        position="381.78571,73.214286"
        id="guide9384" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="61.840772,246.91367"
+       id="guide3098" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="61.840772,270.18126"
+       id="guide3100" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="61.840772,293.44884"
+       id="guide3102" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="61.840772,316.71642"
+       id="guide3104" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="61.840772,339.98405"
+       id="guide3106" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="35.578907,364.78365"
+       id="guide3108" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="61.840772,223.64608"
+       id="guide3110" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="61.840772,200.3785"
+       id="guide3112" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="61.840772,177.11092"
+       id="guide3114" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="61.840772,153.84333"
+       id="guide3116" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="61.840772,130.57575"
+       id="guide3118" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="35.578907,94.204376"
+       id="guide3120" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="61.840772,339.98405"
+       id="guide3122" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="35.578907,364.78365"
+       id="guide3124" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="238.90188,339.98405"
+       id="guide3126" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="212.64,364.78365"
+       id="guide3128" />
   </sodipodi:namedview>
   <metadata
      id="metadata5163">
@@ -75,7 +145,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,7 +176,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="white background"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;stroke:none"
        id="rect3080"
@@ -123,14 +194,14 @@
        xml:space="preserve"
        id="flowRoot2996"
        style="font-size:40px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
-       transform="matrix(0.67135842,0,0,0.67135842,-59.738893,-37.840112)"><flowRegion
+       transform="matrix(0.67135842,0,0,0.67135842,-19.437719,-37.840112)"><flowRegion
          id="flowRegion2998"><rect
            id="rect3000"
            width="484.53244"
            height="41.866894"
            x="151"
            y="109" /></flowRegion><flowPara
-         id="flowPara3004">PRE-FLIGHT CHECKLIST</flowPara></flowRoot>    <g
+         id="flowPara3004">BUILD CHECKLIST</flowPara></flowRoot>    <g
        id="g3014"
        transform="matrix(0.8715797,0,0,0.8715797,33.137847,-416.94818)">
       <rect
@@ -363,7 +434,7 @@
          x="35.578907"
          y="152.71635">Orbiter</tspan></text>
     <g
-       transform="matrix(0.8715797,0,0,0.8715797,210.19896,-416.84244)"
+       transform="matrix(0.8715797,0,0,0.8715797,210.19896,-416.94818)"
        id="g3107">
       <rect
          style="fill:none;stroke:#000000;stroke-width:2.29468393;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -383,10 +454,10 @@
            sodipodi:role="line"
            id="tspan3113"
            x="32.959347"
-           y="681.48926">Canards</tspan></text>
+           y="681.48926">Stabilizer Fins</tspan></text>
     </g>
     <g
-       transform="matrix(0.53283257,0,0,0.53371558,215.46862,-167.22895)"
+       transform="matrix(0.53283257,0,0,0.53371558,215.46862,-144.06711)"
        id="g3115">
       <rect
          y="669.93176"
@@ -409,7 +480,7 @@
     </g>
     <g
        id="g3123"
-       transform="matrix(0.53283257,0,0,0.53371558,215.46862,-143.96137)">
+       transform="matrix(0.53283257,0,0,0.53371558,215.46862,-120.79953)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:3.75041795;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect3125"
@@ -432,16 +503,16 @@
     <text
        sodipodi:linespacing="125%"
        id="text3187"
-       y="152.82207"
+       y="152.71635"
        x="212.64"
        style="font-size:21.91137505px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
        xml:space="preserve"><tspan
-         y="152.82207"
+         y="152.71635"
          x="212.64"
          sodipodi:role="line"
          id="tspan3193">Launch Vehicle</tspan></text>
     <g
-       transform="matrix(0.8715797,0,0,0.8715797,210.04061,-311.25869)"
+       transform="matrix(0.8715797,0,0,0.8715797,210.19896,-277.34263)"
        id="g3197">
       <rect
          style="fill:none;stroke:#000000;stroke-width:2.29468393;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -464,7 +535,7 @@
            y="681.48926">Legs</tspan></text>
     </g>
     <g
-       transform="matrix(0.53283257,0,0,0.53371558,215.31027,-61.645208)"
+       transform="matrix(0.53283257,0,0,0.53371558,215.46862,-27.729145)"
        id="g3205">
       <rect
          y="669.93176"
@@ -487,7 +558,7 @@
     </g>
     <g
        id="g3213"
-       transform="matrix(0.53283257,0,0,0.53371558,215.31027,-38.377618)">
+       transform="matrix(0.53283257,0,0,0.53371558,215.46862,-4.4615547)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:3.75041795;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect3215"
@@ -508,7 +579,7 @@
            y="689.72742">Ladder</tspan></text>
     </g>
     <g
-       transform="matrix(0.53283257,0,0,0.53371558,215.31027,-15.110038)"
+       transform="matrix(0.53283257,0,0,0.53371558,215.46862,18.806025)"
        id="g3221">
       <rect
          y="669.93176"
@@ -532,28 +603,28 @@
     <text
        sodipodi:linespacing="125%"
        id="text3277"
-       y="258.40582"
-       x="212.48167"
+       y="293.85391"
+       x="212.64"
        style="font-size:21.91137505px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
        xml:space="preserve"><tspan
-         y="258.40582"
-         x="212.48167"
+         y="293.85391"
+         x="212.64"
          id="tspan3279"
          sodipodi:role="line">Lander</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3291"
-       y="115.23967"
+       y="111.23967"
        x="37.70023"
        style="font-size:21.91137505px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
        xml:space="preserve"><tspan
-         y="115.23967"
+         y="111.23967"
          x="37.70023"
          id="tspan3293"
          sodipodi:role="line">Mission:</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 123.30199,118.90377 242.48894,0"
+       d="m 123.30199,114.90377 242.48894,0"
        id="path3295"
        inkscape:connector-curvature="0" />
     <path
@@ -594,5 +665,50 @@
          x="35.578907"
          id="tspan4077"
          sodipodi:role="line">Notes</tspan></text>
+    <g
+       transform="matrix(0.53283257,0,0,0.53371558,215.46862,-117.53194)"
+       id="g3082">
+      <rect
+         y="707.40491"
+         x="15.556349"
+         height="21.213203"
+         width="21.213203"
+         id="rect3084"
+         style="fill:none;stroke:#000000;stroke-width:3.75041795;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3086"
+         y="727.20056"
+         x="43.978645"
+         style="font-size:28.12440872px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+         xml:space="preserve"><tspan
+           y="727.20056"
+           x="43.978645"
+           id="tspan3088"
+           sodipodi:role="line">More Struts</tspan></text>
+    </g>
+    <g
+       id="g3090"
+       transform="matrix(0.8715797,0,0,0.8715797,210.19896,-393.68055)">
+      <rect
+         y="669.93176"
+         x="15.556349"
+         height="12.989996"
+         width="12.968505"
+         id="rect3092"
+         style="fill:none;stroke:#000000;stroke-width:2.29468393;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3094"
+         y="681.48926"
+         x="32.959347"
+         style="font-size:17.2078495px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+         xml:space="preserve"
+         transform="scale(0.99917244,1.0008282)"><tspan
+           y="681.48926"
+           x="32.959347"
+           id="tspan3096"
+           sodipodi:role="line">Struts</tspan></text>
+    </g>
   </g>
 </svg>
